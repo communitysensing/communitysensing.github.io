@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Papers : Common Sense &#8212; Mobile sensing for community action</title>
+<link rel="stylesheet" href="includes/style.css" type="text/css">
+<script language="JavaScript" type="text/javascript">AC_FL_RunContent = 0;</script>
+<script language="JavaScript" src="javascripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+<body id="pagePapers">
+<!-- $Id: papers.php,v 1.4 2018/03/06 20:45:23 pmaoki Exp $ -->
+<div id="container">
+  <div id="headerwrapper">
+    <? include("includes/header.html") ?>
+  </div>
+  <div id="contentwrapper">
+    <div id="mainbox">
+      <h1>Papers</h1>
+      <h2>Environmental Protection and Agency: Motivations, Capacity, and Goals in Participatory Sensing </h2>
+      <p class="smallText">P. Aoki, A. Woodruff, B. Yellapragada and W. Willett.
+        Environmental Protection and Agency: Motivations, Capacity, and Goals in Participatory Sensing.  
+	<em>Proc. CHI 2017</em>, May 2017, 3138-3150.</p>
+      <p>In this paper we consider various genres of citizen science from the perspective of citizen participants. As a mode of scientific inquiry, citizen science has the potential to "scale up" scientific data collection efforts and increase lay engagement with science. However, current technological directions risk losing sight of the ways in which citizen science is actually practiced. As citizen science is increasingly used to describe a wide range of activities, we begin by presenting a framework of citizen science genres. We then present findings from four interlocking qualitative studies and technological interventions of community air quality monitoring efforts, examining the motivations and capacities of citizen participants and characterizing their alignment with different types of citizen science. Based on these studies, we suggest that data acquisition involves complex multi-dimensional tradeoffs, and the commonly held view that citizen science systems are a win-win for citizens and science may be overstated.
+     <a href="http://www.paulaoki.com/papers/chi17-science.pdf">Download
+      PDF</a></p>
+      <h2>Common Sense Community: Scaffolding Mobile Sensing and Analysis for Novice Users</h2>
+      <p class="smallText">W. Willett, P. Aoki, N. Kumar,
+	S. Subramanian, and A. Woodruff.  Common Sense Community:
+	Scaffolding Mobile Sensing and Analysis for Novice
+	Users.  <em>Proc. Pervasive 2010</em>, May 2010,
+	301-318. <em>Best Paper Award.</em></p>
+      <p>As sensing technologies become increasingly distributed and
+      democratized, citizens and novice users are becoming responsible
+      for the kinds of data collection and analysis that have
+      traditionally been the purview of professional scientists and
+      analysts. Leveraging this citizen engagement effectively,
+      however, requires not only tools for sensing and data collection
+      but also mechanisms for understanding and utilizing input from
+      both novice and expert stakeholders.  When successful, this
+      process can result in actionable findings that leverage and
+      engage community members and build on their experiences and
+      observations.  We explored this process of knowledge production
+      through several dozen interviews with novice community members,
+      scientists, and regulators as part of the design of a mobile air
+      quality monitoring system. From these interviews, we derived
+      design principles and a framework for describing data collection
+      and knowledge generation in citizen science settings,
+      culminating in the user-centered design of a system for
+      community analysis of air quality data. Unlike prior systems,
+      ours breaks analysis tasks into discrete mini-applications
+      designed to facilitate and scaffold novice contributions. An
+      evaluation we conducted with community members in an area with
+      air quality concerns indicates that these mini-applications help
+      participants identify relevant phenomena and generate local
+      knowledge contributions. <a href="http://www.paulaoki.com/papers/pervasive10.pdf">Download
+      PDF</a></p>
+      <h2>Common Sense: Participatory Urban Sensing Using a Network
+of Handheld Air Quality Monitors</h2>
+      <p class="smallText">P. Dutta, P.M. Aoki, N. Kumar,
+      A. Mainwaring, C. Myers, W. Willett, and A. Woodruff.  Common
+      Sense: Participatory Urban Sensing Using a Network of Handheld
+      Air Quality Monitors (demonstration). <em>Proc. SenSys
+      2009,</em> Berkeley, CA, Nov. 2009, 349-350.</p>
+      <p>Poor air quality is a global health issue, causing serious
+      problems like asthma, cancer, and heart disease around the
+      world.  Earlier this decade, the World Health Organization
+      estimated that three million people die each year from the
+      effects of air pollution.  Unfortunately, while variations in
+      air quality are significant, today's air quality monitors are
+      very sparsely deployed.  To address this visibility gap, the
+      Common Sense project is developing participatory sensing systems
+      that allow individuals to measure their personal exposure,
+      groups to aggregate their members' exposure, and activists to
+      mobilize grassroots community
+      action. <a href="http://www.paulaoki.com/papers/sensys09-demo.pdf">Download
+      PDF</a></p>
+      <h2>A Vehicle for Research: Using Street Sweepers to Explore the
+      Landscape of Environmental Community Action</h2>
+      <p class="smallText">P.M. Aoki, R.J. Honicky, A. Mainwaring,
+      C. Myers, E. Paulos, S. Subramanian, and A. Woodruff.  A Vehicle
+      for Research: Using Street Sweepers to Explore the Landscape of
+      Environmental Community Action. <em> Proc. CHI 2009, </em> Boston,
+      MA, Apr. 2009, 375-384. <em>Best Paper Nominee.</em></p>
+      <p>Researchers are developing mobile sensing platforms to
+      facilitate public awareness of environmental
+      conditions. However, turning such awareness into practical
+      community action and political change requires more than just
+      collecting and presenting data.  To inform research on mobile
+      environmental sensing, we conducted design fieldwork with
+      government, private, and public interest stakeholders. In
+      parallel, we built an environmental air quality sensing system
+      and deployed it on street sweeping vehicles in a major
+      U.S. city; this served as a “research vehicle” by grounding our
+      interviews and affording us status as environmental action
+      researchers.  In this paper, we present a qualitative analysis
+      of the landscape of environmental action, focusing on insights
+      that will help researchers frame meaningful technological
+      interventions. <a href="http://www.paulaoki.com/papers/chi09.pdf">Download
+      PDF</a></p>
+      <h2>Common Sense: Mobile Environmental Sensing Platforms to
+      Support Community Action and Citizen Science</h2>
+      <p class="smallText">P.M. Aoki, R.J. Honicky, A. Mainwaring,
+      C. Myers, E. Paulos, S. Subramanian, and A. Woodruff.  Common
+      Sense: Mobile Environmental Sensing Platforms to Support
+      Community Action and Citizen Science (demonstration).<em>
+      Adjunct Proceedings Ubicomp 2008,</em> Sep. 2008, 59-60.</p>
+      <p>The Common Sense project is developing mobile environmental
+      sensing platforms to support grassroots community action.  To
+      this end, we are building a family of hardware and software
+      components that can be used in a range of applications, as well
+      as developing new communication paradigms that enable
+      communities of non- experts to gather and produce information
+      that is “credible enough” for experts and policy-makers.  The
+      demonstration showcases one such platform, currently deployed on
+      street-sweeping vehicles in a major
+      U.S. city. <a href="http://www.paulaoki.com/papers/ubicomp08-demo.pdf">Download
+      PDF</a></p>
+    </div>
+    <? include("includes/rightnav.html") ?>
+  </div>
+  <? include("includes/footer.html") ?>
+</div>
+</body>
+</html>
