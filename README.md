@@ -1,1 +1,1 @@
-Converted from PHP.
+Common Sense was a collaborative project between Intel Research Berkeley, U.C. Berkeley, and the West Oakland Environmental Indicators Project (WOEIP). This website is maintained for historical purposes -- the project as such ended in 2011 when the Intel site at Berkeley was shut down, but @WOEIP continues to work in this area.
