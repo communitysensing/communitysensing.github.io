@@ -1,1 +1,3 @@
-Common Sense was a collaborative project between Intel Research Berkeley, U.C. Berkeley, and the West Oakland Environmental Indicators Project (WOEIP). This website is maintained for historical purposes -- the project as such ended in 2011 when the Intel site at Berkeley was shut down, but @WOEIP continues to work in this area.
+Common Sense was a collaborative project between Intel Research Berkeley, U.C. Berkeley, and the West Oakland Environmental Indicators Project (WOEIP). This website is maintained for historical purposes -- the project as such ended in 2011 when the Intel site at Berkeley was shut down, though WOEIP continues to work in this area.
+
+A consultant produced the site as PHP, but the only real use of PHP was to modularize some common elements. Since this site will never be rebuilt, I simply inlined the includes (as opposed to Jekyll-izing them) so that there would not be any build infrastructure to bit-rot.
